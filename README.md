@@ -1,5 +1,6 @@
 # Kinect Camera Emulator
 
+Depth-detection-model:\
 Input image: RGB camera image \
 Mask output: Kinect depth map
 
