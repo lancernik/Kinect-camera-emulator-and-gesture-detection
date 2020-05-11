@@ -3,7 +3,8 @@
 
 
 
-Step 1) Combine kinect and RGB to get best results in gesture detection
+Step 1) Combine kinect and RGB to get best results in gesture detection \
+Color-based detection is not accurate enought to be main hand-detection source,but will allow to increase gesture detection accuracy and complexity. Using deep-learning for hand detection will slow program too much, so it's better to use depth-sensor
 ![image](http://chemmaks.pl/Tutoriale/depth.png)
 
 
