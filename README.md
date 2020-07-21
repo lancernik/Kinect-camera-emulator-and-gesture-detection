@@ -19,3 +19,5 @@ Input image: RGB camera image \
 Mask output: Kinect depth map
 
 Step 3) Home-made motion capture studio is ready
+
+t
